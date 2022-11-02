@@ -1,9 +1,4 @@
-/*
- * LCD_programe.c
- *
- * Created: 9/11/2022 11:28:38 AM
- *  Author: AMIT
- */ 
+
 
 #define F_CPU 16000000UL
 #include <util/delay.h> 
