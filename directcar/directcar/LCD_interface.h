@@ -1,9 +1,4 @@
-/*
- * LCD_interface.h
- *
- * Created: 9/11/2022 11:28:58 AM
- *  Author: AMIT
- */ 
+
 
 
 #ifndef LCD_INTERFACE_H_
